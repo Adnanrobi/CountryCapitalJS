@@ -28,7 +28,7 @@ Once the containers are up and running, the microservice is accessible at:
 
 #### Save Country-Capital Information
 
-- To save a new country-capital pair, send a POST request to /api/country/save with JSON body {"country": "Country", "capital": "Capital"}.
+- To save a new country-capital pair, send a POST request to /api/country/save with JSON body {"name": "Country", "capital": "Capital"}.
 
 #### Retrieve Capital by Country
 
